@@ -1,1 +1,4 @@
-# car_plate
+# 車牌辨識系統
+
+工研院分析報告:
+http://www.twcloud.org.tw/files/file_pool/1/0J365497692777195097/2019%20TASA%2012%E6%9C%88%E7%B0%A1%E5%A0%B1_DNN%E8%BB%8A%E7%89%8C%E8%BE%A8%E8%AD%98%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8.pdf
